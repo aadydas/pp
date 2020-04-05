@@ -5,6 +5,7 @@ This is a learn/ project to understand:
 - Spring
 - Docker
 - Kubernetes
+- Spring Docker: https://spring.io/guides/topicals/spring-boot-docker
 
 App Presentation: https://bit.ly/3dGo6Lh
 ___
